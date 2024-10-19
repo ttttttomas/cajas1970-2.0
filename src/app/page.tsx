@@ -24,9 +24,9 @@ export default function Home() {
                 <Carousel />
             </div>
         </section>
-        <section className="flex justify-center items-center gap-x-5 bg-white/30 py-3 rounded-3xl text-white font-bold text-3xl">
-          <h2>¿QUERES DESCARGAR NUESTRO CATALOGO?</h2>
-          <a className="underline" href="CATALOGOCAJAS1970.pdf" download="CATALOGO 2024">HACE CLICK ACÁ</a>
+        <section className="flex justify-center items-center gap-x-5 py-3 rounded-3xl text-white font-bold text-3xl">
+          <h2 className="">¿QUERES DESCARGAR NUESTRO CATALOGO?</h2>
+          <a className="underline bg-white/50 p-2 rounded-2xl" href="CATALOGOCAJAS1970.pdf" download="CATALOGO 2024">HACE CLICK ACÁ</a>
         </section>
       <section id="boxs"></section>
       <section id="maps"></section>

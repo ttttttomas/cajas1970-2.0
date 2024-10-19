@@ -9,3 +9,8 @@ body {
   background-repeat: no-repeat;
   font-family: 'Montserrat Variable', sans-serif !important;
 }
+
+.wpp{
+  width: 60px;
+  height: 60px;
+}

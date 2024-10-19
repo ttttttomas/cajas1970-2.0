@@ -37,11 +37,13 @@ export default function Header() {
                 </Link>
                 <div className="flex justify-center items-center gap-x-8">
                 <Link
+                className="hover:animate-spin"
                 target="_blank" 
                 href="https://www.instagram.com/cajas1970/?hl=es">
                     <Instagram /> 
                 </Link>
-                <Link 
+                <Link
+                className="hover:animate-spin" 
                 target="_blank" 
                 href="https://www.facebook.com/p/Cajas1970-100063628059239/?_rdr">
                     <Facebook /> 
